@@ -1,0 +1,6 @@
+{
+  "name": "MedExchange-Crypto",
+  "description": "Zero-trust encrypted clinical file vault and secure exchange featuring AES-256-GCM authenticated encryption, PBKDF2 (210,000 rounds), NIST SP 800-132 compliance, and interactive cryptographic engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
